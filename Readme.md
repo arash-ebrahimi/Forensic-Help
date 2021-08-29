@@ -1,7 +1,7 @@
 <div dir="rtl">
 
 # اسناد الکترونیکی سازمان پزشکی قانونی
-![app](pictures\header_logo_fa.png)
+![app](header_logo_fa.png)
 
   واحد فن آوری اطلاعات
 
