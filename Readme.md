@@ -21,7 +21,7 @@ WebAPI ساخته شده که در این مقاله ساختار و عملکر�
 
 
 #
-![app](pictures\Presentation1.png)
+![app](Presentation1.png)
 #
 
 
@@ -116,7 +116,7 @@ Get_AdmissionListBaseAdmissionID
 
 </div>
 
-![app](pictures\VirtualAPI_RUN.png)
+![app](VirtualAPI_RUN.png)
 <br/>
 <div dir="rtl">
 اگر بخواهیم بیمارستانهای بیشتری را شبیه سازی کنیم باید ابتدا پورت را به عنوان مثال به 6003 و 6004  مطابق کد تغییر داده و کامپایل کنیم. در خروجی پوشه bin را جایی کپی کرده و محتویات json را در پوشه VitualDB تغییر دهیم.  اکنون فایل را اجرا کنیم. به خاطر داشته باشیم که آدرس جدید باید در مسیر ForensicTaskBase\Services\SiamURLDataSet\SiamInfo.json تغییر کند تا API واسط بتواند آنرا در فراخوانی در نظر بگیرد.
@@ -127,7 +127,7 @@ Get_AdmissionListBaseAdmissionID
 
 </div>
 
-![app](pictures\Presentation2.png)
+![app](Presentation2.png)
 <br/>
 
 </div>
